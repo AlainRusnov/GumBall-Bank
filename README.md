@@ -1,6 +1,6 @@
 # GumBall-Bank
 GumBall Bank
-![GBproto](https://user-images.githubusercontent.com/71734708/107173059-eac83e00-6994-11eb-8759-2495dab2636c.gif)
+![GBproto2](https://user-images.githubusercontent.com/71734708/107272451-b5b2fe80-6a1b-11eb-8ddf-f725e5ea1f99.gif)
 
 Protoyping landing page
 
