@@ -6,8 +6,8 @@ https://alainrusnov.github.io/GumBall-Bank/
 
 Deployed alpha version of the landing page
 
-- Need to redesign and implement fully functional account dashboard
-- Add scroll element on images
+- Need to redesign and implement fully functional account dashboard ( can be found here https://alainrusnov.github.io/gumball-dashboard/ )
+- Add scroll element on images (?)
 - replace placeholder images with customized assets
 - review for readibility UX
 - refactor and assign for performance
