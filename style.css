@@ -657,7 +657,7 @@ h4 {
 .section--sign-up {
   /* background-color: #37383d; */
   border-top: none;
-  border-bottom: 1px solid #444;
+  /* border-bottom: 1px solid #444; */
   text-align: center;
   padding: 10rem 3rem;
   padding: 0 3rem;
@@ -665,7 +665,7 @@ h4 {
   max-width: 98vw;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
 }
 
@@ -679,9 +679,9 @@ h4 {
   align-content: center;
   justify-content: center;
 
-  align-items: center;
+  align-items: space-around;
   justify-items: space-around;
-  /* transform: translateY(8rem); */
+  transform: translateY(8rem);
 }
 
 .left_block {
@@ -693,14 +693,13 @@ h4 {
 }
 
 .gbg2__img {
-  width: 150%;
-  height: 150%;
-  /* grid-column: 3 / 3; */
-  /* grid-row: 1 / span 1; */
-  transform: translateY(-10rem) translateX(-50rem);
+  width: 110rem;
+  height: 110rem;
+  transform: translateY(-12rem) translateX(-10rem);
+  /* grid-column: 3 / 3;
+  grid-row: 1 / span 1; */
   /* z-index: -10; */
-  /* transform: rotate(10deg);
-  filter: invert(100%)
+  /* filter: invert(100%)
    opacity(100%)
    brightness(200%)
    contrast(100%)
@@ -710,14 +709,15 @@ h4 {
 
 
 .section--sign-up .section__header {
-  margin-top: 10rem;
+  margin-top: 15rem;
+  /* margin-left: 10rem; */
   color: #fff;
   text-align: center;
   z-index: 2;
 }
 
 .section--sign-up .section__title {
-  margin-top: 4rem;
+  margin-top: 6rem;
   z-index: 2;
   /* margin-bottom: 6rem; */
 }
@@ -731,7 +731,7 @@ h4 {
 /* FOOTER */
 .footer {
   padding: 10rem 3rem;
-  background-color: #37383d;
+  background-color: #232427;
 }
 
 .footer__nav {
