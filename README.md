@@ -15,6 +15,6 @@ Deployed alpha version of the landing page
 
 
 The goal of Gumball Bank was to create a SPA with only pure language.
-The challenge was to not use frameworks. No libraries. No abstraction. See what happens.
+The challenge was to not use frameworks. No libraries. No abstraction.
 Coded using vanilla JS, html, css.
 
