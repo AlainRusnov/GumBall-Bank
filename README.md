@@ -4,14 +4,9 @@ https://alainrusnov.github.io/GumBall-Bank/
 
 ![GBproto3](https://user-images.githubusercontent.com/71734708/107306892-bbc4d180-6a53-11eb-8877-9cd61a4ece57.gif)
 
-Deployed alpha version of the landing page
+![GBBdashboardDark](https://user-images.githubusercontent.com/71734708/107820653-24a89400-6d49-11eb-8c36-d2435b79aae3.gif)
 
-- Need to redesign and implement fully functional account dashboard ( can be found here https://alainrusnov.github.io/gumball-dashboard/ )
-- Add scroll element on images (?)
-- replace placeholder images with customized assets
-- review for readibility UX
-- refactor and assign for performance
-- pwa (?)
+- Functional dashboard implemented
 
 
 The goal of Gumball Bank was to create a SPA with only pure language.
