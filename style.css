@@ -784,12 +784,18 @@ h4 {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  max-width: 200rem;
+  width: 90vw;
+  height: 98vh;
   background-color: black;
   padding: 5rem 6rem;
   box-shadow: 0 4rem 6rem rgba(0, 0, 0, 0.3);
   z-index: 1000;
   transition: all 0.5s;
+}
+
+.account__dash {
+  height: 100%;
+  width: 100%;
 }
 
 .overlay {

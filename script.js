@@ -46,8 +46,8 @@ document.addEventListener('keydown', function (e) {
 const header = document.querySelector('.header');
 const message = document.createElement('div');
 message.classList.add('cookie-message');
-message.textContent = 'Fully functional Demo account Dashboard coming soon.';
-message.innerHTML = 'Fully functional Demo account Dashboard coming soon.<button class="btn btn--close-cookie">Got it!</button>';
+message.textContent = 'Demo the account Dashboard ! - Request loan, delete account, etc.';
+message.innerHTML = 'Demo the account Dashboard ! - Request loan, delete account, etc.<button class="btn btn--close-cookie">Got it!</button>';
 
 header.append(message);
 
